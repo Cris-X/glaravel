@@ -1,3 +1,3 @@
-module glaravel
+module github.com/Cris-X/glaravel
 
 go 1.22
